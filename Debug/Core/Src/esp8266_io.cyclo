@@ -1,0 +1,8 @@
+../Core/Src/esp8266_io.c:38:8:esp8266_io_init	2
+../Core/Src/esp8266_io.c:56:6:esp8266_io_deinit	1
+../Core/Src/esp8266_io.c:68:8:esp8266_io_send	2
+../Core/Src/esp8266_io.c:83:9:esp8266_io_recv	5
+../Core/Src/esp8266_io.c:115:6:HAL_UARTEx_RxEventCallback	4
+../Core/Src/esp8266_io.c:140:6:HAL_UART_RxCpltCallback	1
+../Core/Src/esp8266_io.c:150:6:HAL_UART_ErrorCallback	1
+../Core/Src/esp8266_io.c:161:13:esp8266_io_error_handler	1
